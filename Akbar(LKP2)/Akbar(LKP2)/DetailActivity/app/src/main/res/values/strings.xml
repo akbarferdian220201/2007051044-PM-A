@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DetailActivity</string>
+    <string name="hallo">Selamat Kamu berhasil berpindah halaman :)</string>
+</resources>
