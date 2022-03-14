@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Jual Kambing</string>
+    <string name="harga">Rp. 30.000.000</string>
+    <string name="kambing">Kambing Bandot</string>
+    <string name="deskripsi">Kambing dalam keadaan sehat. Siap adu atau dipotong.</string>
+    <string name="tipe">Tipe</string>
+    <string name="kambing_bandot">Kambing Bandot</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="jantan">Jantan</string>
+    <string name="umur">Umur</string>
+    <string name="tahun">3 Tahun</string>
+    <string name="ciri_khas">Ciri Khas</string>
+    <string name="teks">Mempunyai tanduk yang panjang dan kuat.</string>
+    <string name="owner">Owner</string>
+    <string name="akbar">Akbar Ferdian Maulana</string>
+    <string name="buy">buy</string>
+
+
+</resources>
